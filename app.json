@@ -1,0 +1,19 @@
+{
+  "id": "0a6ea454-685c-4136-ab5a-b8930f9c1ff0",
+  "name": "52.CreateTableExtension",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
